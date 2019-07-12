@@ -74,8 +74,6 @@ class PigLatinTranslator {
             }
             String names = String.join(" ", stringList);
             result += names;
-
-
         }
         return result;
     }
