@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PalindromeTest" tests="4" skipped="4" failures="0" errors="0" timestamp="2019-07-20T16:40:06" hostname="Interns.local" time="0.001">
+  <properties/>
+  <testcase name="testShouldNotBeAPalindrome" classname="PalindromeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSentenceWithSpecialCharactersShouldNotBeAPalindrome" classname="PalindromeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEmptyStringShouldBeAPalindrome" classname="PalindromeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSentenceShouldBeAPalindrome" classname="PalindromeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
