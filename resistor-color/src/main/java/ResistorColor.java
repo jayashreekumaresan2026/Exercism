@@ -4,7 +4,7 @@ class ResistorColor {
 
 
     int colorCode(String color) {
-        int index = 0;
+        int index = -1;
         for (int i = 0; i < resistorColours.length; i++) {
             if (resistorColours[i].equals(color)) {
                 index = i;
