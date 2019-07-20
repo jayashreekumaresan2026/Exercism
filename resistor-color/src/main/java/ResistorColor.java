@@ -8,6 +8,7 @@ class ResistorColor {
         for (int i = 0; i < resistorColours.length; i++) {
             if (resistorColours[i].equals(color)) {
                 index = i;
+                break;
             }
         }
         return index;
